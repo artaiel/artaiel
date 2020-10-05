@@ -38,12 +38,12 @@
 <br>
 
 
-<details>
+<!-- <details>
   <summary>:computer: Github stats</summary>
 
   [![Artaiel's github stats](https://github-readme-stats-git-master.artaiel.vercel.app/api?username=artaiel&show_icons=true&theme=merko&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_border=true)](https://github.com/artaiel/github-readme-stats)
 
-</details>
+</details> -->
 
 [linkedin]: https://www.linkedin.com/in/andrzej~walczak/
 [website]: https://andrzej-walczak.pl/
